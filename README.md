@@ -24,11 +24,11 @@ Note: Kiểm tra tình trạng file sau khi git push
 git log
 
 Note: Thao tác với branch  
-git branch <name>  
-// vào branch <name>  
-git checkout <name>  
+git branch name  
+// vào branch name  
+git checkout name  
 // chọn branch mình xài  
 git branch  
 // xem branch mình xài  
-git merge <branch name>  
+git merge branch name  
 // hợp code ở branch chính  
