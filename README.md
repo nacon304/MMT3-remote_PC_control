@@ -26,7 +26,7 @@ git log
 Note: Thao tác với branch  
 git branch <name>  
 // vào branch <name>  
-git checkout  
+git checkout <name>  
 // chọn branch mình xài  
 git branch  
 // xem branch mình xài  
