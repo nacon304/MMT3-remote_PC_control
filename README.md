@@ -31,4 +31,7 @@ git checkout name
 git branch  
 // xem branch mình xài  
 git merge branch name  
-// hợp code ở branch chính  
+// hợp code ở branch name
+
+7. **Note: Đồng bộ code trên git**
+git pull origin name  
