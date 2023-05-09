@@ -4,9 +4,9 @@
 
 1. **Note: Khởi tạo git**  
 git init  
-Note: Tạo file Readme.md
-echo "Something in readme..." >> README.md 
-git add README.md
+Note: Tạo file Readme.md  
+echo "Something in readme..." >> README.md   
+git add README.md  
 git commit -m "first commit"  
 
 2. **Note: Chọn branch chạy**  
