@@ -33,5 +33,5 @@ git branch
 git merge branch name  
 // hợp code ở branch name
 
-7. **Note: Đồng bộ code trên git**
+7. **Note: Đồng bộ code trên git**  
 git pull origin name  
